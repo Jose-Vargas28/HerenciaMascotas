@@ -38,10 +38,10 @@ public class Mascota {
 
     public void caracteristicas() {
         System.out.println("El nombre es: " + nombre);
-        System.out.println("El raza es: " + raza);
+        System.out.println("La raza es: " + raza);
     }
 
     public void mostrarEdad(){
-        System.out.println("El edad es: " + edad);
+        System.out.println("La edad es: " + edad);
     }
 }
